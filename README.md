@@ -81,8 +81,7 @@ def get_batman_data():
     "batman" : "http://127.0.0.1:8001/batman",
     "superman" : "http://127.0.0.1:8002/superman",
     "new_product" : "http://127.0.0.1:8003/new_product" #update the name and URL of your new data product
-
-}
+    }
 ```
 
 5. **Access the web interface**
