@@ -10,7 +10,7 @@ def products():
         "products" : list_data_products()
     }
 
-@app.get("/products/{product_name}"):
+@app.get("/products/{product_name}")
 def fetch_product(product_name: str):
     url = get_product_url(product_name)
     try:
