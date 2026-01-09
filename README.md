@@ -87,7 +87,6 @@ def get_batman_data():
 
 5. **Access the web interface**
     http://127.0.0.1:8000/docs
-```
 
 
 
