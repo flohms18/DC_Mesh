@@ -1,1 +1,4 @@
 DC_Mesh_venv/
+*.pyc
+__pycache__/
+domain/__pycache__
